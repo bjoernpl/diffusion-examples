@@ -1,0 +1,8 @@
+torch
+tqdm
+accelerate
+matplotlib
+datasets
+transformers
+diffusers
+jupyterlab
